@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "json-server --watch db.json",
-	"dev2": "json-server --watch db2.json",
-	"push": "bash push.sh"
+    "dev2": "json-server --watch db2.json",
+    "push": "bash push.sh"
   },
   "author": "",
   "license": "ISC",

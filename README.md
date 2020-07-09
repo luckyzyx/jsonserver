@@ -26,8 +26,6 @@ http://localhost:3000/users/1
 }
 ```
 
-
-
 # GET获取
 
 ## 获取某个列表的所有信息
