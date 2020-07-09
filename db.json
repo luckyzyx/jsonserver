@@ -1,0 +1,107 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "aaa",
+      "phone": "111-222-333",
+      "email": "aaa@qq.com",
+      "age": 10,
+      "gender": 1,
+      "company": 1
+    },
+    {
+      "id": 2,
+      "name": "bbb",
+      "phone": "222-333-444",
+      "email": "bbb@qq.com",
+      "age": 20,
+      "gender": 1,
+      "company": 2
+    },
+    {
+      "id": 3,
+      "name": "ccc",
+      "phone": "333-444-555",
+      "email": "ccc@qq.com",
+      "age": 30,
+      "gender": 1,
+      "company": 3
+    },
+    {
+      "id": 4,
+      "name": "ddd",
+      "phone": "444-555-666",
+      "email": "ddd@qq.com",
+      "age": 40,
+      "gender": 1,
+      "company": 4
+    },
+    {
+      "name": "zyx",
+      "email": "2813467705@qq.com",
+      "company": 3,
+      "id": 5
+    },
+    {
+      "name": "zyx",
+      "email": "281305@qq.com",
+      "company": 1,
+      "id": 6
+    },
+    {
+      "name": "zyx",
+      "email": "281305@qq.com",
+      "company": 1,
+      "id": 7
+    },
+    {
+      "name": "zyx",
+      "email": "281305@qq.com",
+      "company": 2,
+      "id": 8
+    },
+    {
+      "name": "zyx",
+      "email": "281305@qq.com",
+      "company": 2,
+      "id": 9
+    },
+    {
+      "name": "zyx",
+      "email": "281305@qq.com",
+      "company": 2,
+      "id": 10
+    }
+  ],
+  "gender": [
+    {
+      "id": 0,
+      "name": "未知"
+    },
+    {
+      "id": 1,
+      "name": "男"
+    },
+    {
+      "id": 2,
+      "name": "女"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple Apple Apple"
+    },
+    {
+      "id": 2,
+      "name": "Micrsoft",
+      "description": "Micrsoft Micrsoft Micrsoft"
+    },
+    {
+      "id": 3,
+      "name": "Minrcraft",
+      "description": "Minrcraft Minrcraft Minrcraft"
+    }
+  ]
+}
