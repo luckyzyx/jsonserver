@@ -5,8 +5,8 @@
       "name": "黄勇",
       "age": 64,
       "address": "湖南省",
-      "gender": "1",
-      "education": "1"
+      "gender": 2,
+      "education": "6"
     },
     {
       "id": 2,
@@ -747,34 +747,11 @@
     {
       "id": 94,
       "name": "方丽",
-      "age": 45,
+      "age": 22,
       "address": "陕西省",
-      "gender": "1",
-      "education": "4"
-    },
-    {
-      "id": 95,
-      "name": "邹磊",
-      "age": 37,
-      "address": "香港特别行政区",
-      "gender": "2",
-      "education": "2"
-    },
-    {
-      "id": 96,
-      "name": "郑秀英",
-      "age": 24,
-      "address": "山西省",
-      "gender": "1",
-      "education": "1"
-    },
-    {
-      "id": 97,
-      "name": "方杰",
-      "age": 13,
-      "address": "宁夏回族自治区",
-      "gender": "2",
-      "education": "5"
+      "gender": 2,
+      "education": "1",
+      "phone": 1234
     }
   ]
 }
