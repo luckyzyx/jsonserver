@@ -6,7 +6,6 @@
   "name": "jsonserver",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "dev": "json-server --watch db.json",
     "dev2": "json-server --watch db2.json",
